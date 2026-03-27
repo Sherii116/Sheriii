@@ -1,6 +1,12 @@
 # Mobile Robot Development-
 Information about the development of a robot designed to perform predefined tasks, which I undertook during my bachelor’s studies.
 
+Introduction to the project
+https://github.com/user-attachments/assets/1c08c5f7-ca5b-4958-9042-10c89e70a7b0
+https://github.com/user-attachments/assets/7d992ccb-eab6-4a1d-bb2e-580a4527bd85
+
+
+
 Qr code detection 
 https://github.com/user-attachments/assets/2cdd5ef4-3e92-4c3c-96c5-008d7c05f847
 
