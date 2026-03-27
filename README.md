@@ -3,6 +3,7 @@ Information about the development of a robot designed to perform predefined task
 
 Introduction to the project
 https://github.com/user-attachments/assets/1c08c5f7-ca5b-4958-9042-10c89e70a7b0
+
 https://github.com/user-attachments/assets/7d992ccb-eab6-4a1d-bb2e-580a4527bd85
 
 
